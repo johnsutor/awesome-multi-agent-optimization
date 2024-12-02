@@ -5,6 +5,7 @@
 A collection of papers and libraries for performing multi-agent optimization. All resources are ordered by date in descending order. Please feel free to submit PRs to improve the list!
 
 ## Resources 
+- [2024-11-04] DynaSaur: Large Language Agents Beyond Predefined Actions [Paper](https://arxiv.org/abs/2411.01747) [Code](https://github.com/adobe-research/dynasaur) 
 - [2024-10-22] SELA: Tree-Search Enhanced LLM Agents for Automated Machine Learning [Paper](https://arxiv.org/abs/2410.17238) [Code](https://github.com/geekan/MetaGPT/blob/main/metagpt/ext/sela/)
 - [2024-10-14] AFLow: Automating Agentic Workflow Generation [Paper](https://arxiv.org/abs/2410.10762) [Code](https://github.com/geekan/MetaGPT/tree/main/examples/aflow)
 - [2024-10-14] Agent-as-a-Judge: Evaluate Agents with Agents [Paper](https://arxiv.org/abs/2410.10934) [Code](https://github.com/metauto-ai/agent-as-a-judge)
