@@ -10,6 +10,7 @@ A collection of papers and libraries for performing multi-agent optimization. Al
 - [2024-10-14] AFLow: Automating Agentic Workflow Generation [Paper](https://arxiv.org/abs/2410.10762) [Code](https://github.com/geekan/MetaGPT/tree/main/examples/aflow)
 - [2024-10-14] Agent-as-a-Judge: Evaluate Agents with Agents [Paper](https://arxiv.org/abs/2410.10934) [Code](https://github.com/metauto-ai/agent-as-a-judge)
 - [2024-10-03] Cut the Crap: An Economical Communication Pipeline for LLM-based Multi-Agent Systems [Paper](https://arxiv.org/abs/2410.02506) [Code](https://github.com/yanweiyue/AgentPrune)
+- [2024-08-15] Automated Design of Agentic Systems [Paper](https://arxiv.org/abs/2408.08435) [Code](https://github.com/ShengranHu/ADAS)
 - [2024-06-26] Symbolic Learning Enables Self-Evolving Agents [Paper](https://arxiv.org/abs/2406.18532) [Code](https://github.com/aiwaves-cn/agents)
 - [2024-06-23] Trace is the Next AutoDiff: Generative Optimization with Rich Feedback, Execution Traces, and LLMs [Paper](https://arxiv.org/abs/2406.16218) [Code](https://github.com/microsoft/Trace)
 - [2024-10-03] A Dynamic LLM-Powered Agent Network for Task-Oriented Agent Collaboration [Paper](https://arxiv.org/abs/2310.02170) [Code](https://github.com/SALT-NLP/DyLAN)
