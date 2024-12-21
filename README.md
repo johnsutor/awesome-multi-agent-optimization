@@ -7,6 +7,7 @@ A collection of papers and libraries for performing multi-agent optimization. Al
 ## Resources 
 - [2024-11-04] DynaSaur: Large Language Agents Beyond Predefined Actions [Paper](https://arxiv.org/abs/2411.01747) [Code](https://github.com/adobe-research/dynasaur) 
 - [2024-10-22] SELA: Tree-Search Enhanced LLM Agents for Automated Machine Learning [Paper](https://arxiv.org/abs/2410.17238) [Code](https://github.com/geekan/MetaGPT/blob/main/metagpt/ext/sela/)
+- [2024-10-15] G-Designer: Architecting Multi-agent Communication Topologies via Graph Neural Networks [Paper](https://arxiv.org/pdf/2410.11782) [Code](https://github.com/yanweiyue/GDesigner)
 - [2024-10-14] AFLow: Automating Agentic Workflow Generation [Paper](https://arxiv.org/abs/2410.10762) [Code](https://github.com/geekan/MetaGPT/tree/main/examples/aflow)
 - [2024-10-14] Agent-as-a-Judge: Evaluate Agents with Agents [Paper](https://arxiv.org/abs/2410.10934) [Code](https://github.com/metauto-ai/agent-as-a-judge)
 - [2024-10-03] Cut the Crap: An Economical Communication Pipeline for LLM-based Multi-Agent Systems [Paper](https://arxiv.org/abs/2410.02506) [Code](https://github.com/yanweiyue/AgentPrune)
