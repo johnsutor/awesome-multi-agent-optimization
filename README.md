@@ -5,6 +5,8 @@
 A collection of papers and libraries for performing multi-agent optimization. All resources are ordered by date in descending order. Please feel free to submit PRs to improve the list!
 
 ## Resources 
+- [2024-12-04] How to Correctly do Semantic Backpropagation on Language-based Agentic Systems [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2412.03624) [![GitHub](https://img.shields.io/github/stars/HishamAlyahya/semantic_backprop.svg?style=social&label=Star)](https://github.com/HishamAlyahya/semantic_backprop)
+
 - [2024-11-04] DynaSaur: Large Language Agents Beyond Predefined Actions [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2411.01747) [![GitHub](https://img.shields.io/github/stars/adobe-research/dynasaur.svg?style=social&label=Star)](https://github.com/adobe-research/dynasaur)
 
 - [2024-11-02] Interacting Large Language Model Agents. Interpretable Models and Social Learning [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2411.01271) [![GitHub](https://img.shields.io/github/stars/aditj/sociallearningllm.svg?style=social&label=Star)](https://github.com/aditj/sociallearningllm)
