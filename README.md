@@ -2,9 +2,11 @@
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 ![contributions welcome](https://img.shields.io/badge/contributions-welcome-blue.svg?style=flat)
 
-A collection of papers and libraries for performing multi-agent optimization. All resources are ordered by date in descending order. Please feel free to submit PRs to improve the list!
+A collection of papers and libraries for performing multi-agent optimization. All resources are ordered by date in descending order. Please feel free to submit PRs to improve the list! 
 
 ## Resources 
+- [2024-12-22] A Multi-AI Agent System for Autonomous Optimization of Agentic AI Solutions via Iterative Refinement and LLM-Driven Feedback Loops [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2412.17149) ![Code](https://anonymous.4open.science/r/evolver-1D11/README.md)
+- 
 - [2024-12-04] How to Correctly do Semantic Backpropagation on Language-based Agentic Systems [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2412.03624) [![GitHub](https://img.shields.io/github/stars/HishamAlyahya/semantic_backprop.svg?style=social&label=Star)](https://github.com/HishamAlyahya/semantic_backprop)
 
 - [2024-11-04] DynaSaur: Large Language Agents Beyond Predefined Actions [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2411.01747) [![GitHub](https://img.shields.io/github/stars/adobe-research/dynasaur.svg?style=social&label=Star)](https://github.com/adobe-research/dynasaur)
