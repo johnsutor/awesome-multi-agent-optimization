@@ -36,3 +36,6 @@ A collection of papers and libraries for performing multi-agent optimization. Al
 - [2024-04-30] Octopus v4: Graph of language models [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2404.19296) [![GitHub](https://img.shields.io/github/stars/NexaAI/octopus-v4.svg?style=social&label=Star)](https://github.com/NexaAI/octopus-v4)
 
 - [2024-02-26] Language Agents as Optimizable Graphs [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2402.16823) [![GitHub](https://img.shields.io/github/stars/metauto-ai/gptswarm.svg?style=social&label=Star)](https://github.com/metauto-ai/gptswarm)
+
+- [2023-07-11] Unleashing the Emergent Cognitive Synergy in Large Language Models: A Task-Solving Agent through Multi-Persona Self-Collaboration [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2307.05300) [![GitHub](https://img.shields.io/github/stars/MikeWangWZHL/Solo-Performance-Prompting.svg?style=social&label=Star)](https://github.com/MikeWangWZHL/Solo-Performance-Prompting)
+
