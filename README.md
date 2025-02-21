@@ -33,7 +33,7 @@ A collection of papers and libraries for performing multi-agent optimization. Al
 
 - [2024-06-23] Trace is the Next AutoDiff: Generative Optimization with Rich Feedback, Execution Traces, and LLMs [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2406.16218) [![GitHub](https://img.shields.io/github/stars/microsoft/trace.svg?style=social&label=Star)](https://github.com/microsoft/trace)
 
-- [2024-05-26] Meta-Task Planning for Language Agents [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2405.16510)
+- [2024-05-26] Meta-Task Planning for Language Agents [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2405.16510) [![GitHub](https://img.shields.io/github/stars/zcaicaros/PMC.svg?style=social&label=Star)](https://github.com/zcaicaros/PMC)
 
 - [2024-04-30] Octopus v4: Graph of language models [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2404.19296) [![GitHub](https://img.shields.io/github/stars/NexaAI/octopus-v4.svg?style=social&label=Star)](https://github.com/NexaAI/octopus-v4)
 
