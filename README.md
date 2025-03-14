@@ -43,3 +43,5 @@ A collection of papers and libraries for performing multi-agent optimization. Al
 
 - [2023-07-11] Unleashing the Emergent Cognitive Synergy in Large Language Models: A Task-Solving Agent through Multi-Persona Self-Collaboration [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2307.05300) [![GitHub](https://img.shields.io/github/stars/MikeWangWZHL/Solo-Performance-Prompting.svg?style=social&label=Star)](https://github.com/MikeWangWZHL/Solo-Performance-Prompting)
 
+- [2023-03-31] CAMEL: Communicative Agents for "Mind" Exploration of Large Language Model Society [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2303.17760) [![GitHub](https://img.shields.io/github/stars/camel-ai/owl.svg?style=social&label=Star)](https://github.com/camel-ai/owl)
+
