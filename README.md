@@ -7,6 +7,8 @@ A collection of papers and libraries for performing multi-agent optimization. Al
 ## Resources 
 - [2024-12-22] A Multi-AI Agent System for Autonomous Optimization of Agentic AI Solutions via Iterative Refinement and LLM-Driven Feedback Loops [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2412.17149) [Code](https://anonymous.4open.science/r/evolver-1D11/README.md)
 
+- [2024-12-11] TapeAgents: a Holistic Framework for Agent Development and Optimization [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2412.08445) [![GitHub](https://img.shields.io/github/stars/ServiceNow/TapeAgents.svg?style=social&label=Star)](https://github.com/ServiceNow/TapeAgents)
+
 - [2024-12-04] How to Correctly do Semantic Backpropagation on Language-based Agentic Systems [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2412.03624) [![GitHub](https://img.shields.io/github/stars/HishamAlyahya/semantic_backprop.svg?style=social&label=Star)](https://github.com/HishamAlyahya/semantic_backprop)
 
 - [2024-11-07] Magentic-One: A Generalist Multi-Agent System for Solving Complex Tasks [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2411.04468) [![GitHub](https://img.shields.io/github/stars/microsoft/autogen.svg?style=social&label=Star)](https://github.com/microsoft/autogen/tree/main/python/packages/autogen-magentic-one)
