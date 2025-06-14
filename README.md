@@ -8,9 +8,9 @@ A collection of papers and libraries for performing multi-agent optimization. Al
 - [2025-05-29] OWL: Optimized Workforce Learning for General Multi-Agent Assistance in Real-World Task Automation [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2505.23885) [![GitHub](https://img.shields.io/github/stars/camel-ai/owl.svg?style=social&label=Star)](https://github.com/camel-ai/owl)
 
 - [2025-04-01] AgentNet: Decentralized Evolutionary Coordination for LLM-based Multi-Agent Systems [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2504.00587)
-- 
+
 - [2025-02-06] Multi-agent Architecture Search via Agentic Supernet [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2502.04180) [![GitHub](https://img.shields.io/github/stars/bingreeky/MaAS.svg?style=social&label=Star)](https://github.com/bingreeky/MaAS)
-- 
+
 - [2024-12-22] A Multi-AI Agent System for Autonomous Optimization of Agentic AI Solutions via Iterative Refinement and LLM-Driven Feedback Loops [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2412.17149) [Code](https://anonymous.4open.science/r/evolver-1D11/README.md)
 
 - [2024-12-11] TapeAgents: a Holistic Framework for Agent Development and Optimization [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2412.08445) [![GitHub](https://img.shields.io/github/stars/ServiceNow/TapeAgents.svg?style=social&label=Star)](https://github.com/ServiceNow/TapeAgents)
