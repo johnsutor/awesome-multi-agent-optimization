@@ -9,6 +9,8 @@ A collection of papers and libraries for performing multi-agent optimization. Al
 
 - [2025-04-01] AgentNet: Decentralized Evolutionary Coordination for LLM-based Multi-Agent Systems [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2504.00587)
 
+- [2025-03-14] GNNs as Predictors of Agentic Workflow Performances [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2503.11301) [![GitHub](https://img.shields.io/github/stars/youngsoul0731/Flora-Bench.svg?style=social&label=Star)](https://github.com/youngsoul0731/Flora-Bench)
+
 - [2025-02-06] Multi-agent Architecture Search via Agentic Supernet [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2502.04180) [![GitHub](https://img.shields.io/github/stars/bingreeky/MaAS.svg?style=social&label=Star)](https://github.com/bingreeky/MaAS)
 
 - [2024-12-22] A Multi-AI Agent System for Autonomous Optimization of Agentic AI Solutions via Iterative Refinement and LLM-Driven Feedback Loops [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2412.17149) [Code](https://anonymous.4open.science/r/evolver-1D11/README.md)
