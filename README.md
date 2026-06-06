@@ -5,13 +5,19 @@
 A collection of papers and libraries for performing multi-agent optimization. All resources are ordered by date in descending order. Please feel free to submit PRs to improve the list! 
 
 ## Resources 
+- [2026-02-06] EvoMAS: Evolutionary Generation of Multi-Agent Systems [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2602.06511) [![GitHub](https://img.shields.io/github/stars/amazon-science/EvoMAS.svg?style=social&label=Star)](https://github.com/amazon-science/EvoMAS)
+
 - [2026-02-05] Self-Evolving Coordination Protocol in Multi-Agent AI Systems: An Exploratory Systems Feasibility Study [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2602.02170)
 
 - [2026-02-01] A-MapReduce: Executing Wide Search via Agentic MapReduce [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2602.01331) [![GitHub](https://img.shields.io/github/stars/bingreeky/MaAS.svg?style=social&label=Star)](https://github.com/bingreeky/MaAS)
 
 - [2026-01-15] Evolving Interpretable Constitutions for Multi-Agent Coordination [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2602.00755)
 
+- [2025-12-09] Evolving Excellence: Automated Optimization of LLM-based Agents (ARTEMIS) [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2512.09108)
+
 - [2025-11-19] InfiAgent: Self-Evolving Pyramid Agent Framework for Infinite Scenarios [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2509.22502) [![GitHub](https://img.shields.io/github/stars/InfiAgent/InfiAgent.svg?style=social&label=Star)](https://github.com/InfiAgent/InfiAgent)
+
+- [2025-11-14] MALBO: Optimizing LLM-Based Multi-Agent Teams via Multi-Objective Bayesian Optimization [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2511.11788)
 
 - [2025-07-04] EvoAgentX: An Automated Framework for Evolving Agentic Workflows [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2507.03616) [![GitHub](https://img.shields.io/github/stars/EvoAgentX/EvoAgentX.svg?style=social&label=Star)](https://github.com/EvoAgentX/EvoAgentX)
 
