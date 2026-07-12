@@ -23,6 +23,8 @@ A collection of papers and libraries for performing multi-agent optimization. Al
 
 - [2025-05-29] OWL: Optimized Workforce Learning for General Multi-Agent Assistance in Real-World Task Automation [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2505.23885) [![GitHub](https://img.shields.io/github/stars/camel-ai/owl.svg?style=social&label=Star)](https://github.com/camel-ai/owl)
 
+- [2025-04-23] OptimAI: Optimization from Natural Language Using LLM-Powered AI Agents [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2504.16918)
+
 - [2025-04-21] FlowReasoner: Reinforcing Query-Level Meta-Agents [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2504.15257)
 [![GitHub](https://img.shields.io/github/stars/sail-sg/FlowReasoner.svg?style=social&label=Star)](https://github.com/sail-sg/FlowReasoner)
 
