@@ -5,9 +5,13 @@
 A collection of papers and libraries for performing multi-agent optimization. All resources are ordered by date in descending order. Please feel free to submit PRs to improve the list! 
 
 ## Resources 
+- [2026-08-17] AutoSR: Automatic Symbolic Regression by Searching Research States [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2608.16876) [![GitHub](https://img.shields.io/github/stars/AutoResearch-Factory/AutoSR.svg?style=social&label=Star)](https://github.com/AutoResearch-Factory/AutoSR)
+
 - [2026-08-04] AgonAlpha: Autonomous Alpha Discovery via Prompt Economy and Scalable Agentic Search [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2608.11250) [![GitHub](https://img.shields.io/github/stars/AutoResearch-Factory/AgonAlpha.svg?style=social&label=Star)](https://github.com/AutoResearch-Factory/AgonAlpha)
 
 - [2026-06-23] Agon: An Autonomous Large-Scale Omnidisciplinary Research System Built on Prompt Economy [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2606.24177) [![GitHub](https://img.shields.io/github/stars/AutoResearch-Factory/Agon.svg?style=social&label=Star)](https://github.com/AutoResearch-Factory/Agon)
+
+- [2026-06-07] PerspectiveGap: A Benchmark for Multi-Agent Orchestration Prompting [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2606.08878) [![GitHub](https://img.shields.io/github/stars/WhymustIhaveaname/PerspectiveGap.svg?style=social&label=Star)](https://github.com/WhymustIhaveaname/PerspectiveGap)
 
 - [2026-02-06] EvoMAS: Evolutionary Generation of Multi-Agent Systems [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2602.06511) [![GitHub](https://img.shields.io/github/stars/amazon-science/EvoMAS.svg?style=social&label=Star)](https://github.com/amazon-science/EvoMAS)
 
