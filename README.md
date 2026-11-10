@@ -13,6 +13,8 @@ A collection of papers and libraries for performing multi-agent optimization. Al
 
 - [2026-06-07] PerspectiveGap: A Benchmark for Multi-Agent Orchestration Prompting [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2606.08878) [![GitHub](https://img.shields.io/github/stars/WhymustIhaveaname/PerspectiveGap.svg?style=social&label=Star)](https://github.com/WhymustIhaveaname/PerspectiveGap)
 
+- [2026-05-16] NeuroMAS: Multi-Agent Systems as Neural Networks with Joint Reinforcement Learning [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2605.16757) [![GitHub](https://img.shields.io/github/stars/haoranlustat/NeuroMAS.svg?style=social&label=Star)](https://github.com/haoranlustat/NeuroMAS)
+
 - [2026-02-06] EvoMAS: Evolutionary Generation of Multi-Agent Systems [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2602.06511) [![GitHub](https://img.shields.io/github/stars/amazon-science/EvoMAS.svg?style=social&label=Star)](https://github.com/amazon-science/EvoMAS)
 
 - [2026-02-05] Self-Evolving Coordination Protocol in Multi-Agent AI Systems: An Exploratory Systems Feasibility Study [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2602.02170)
